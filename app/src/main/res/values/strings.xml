@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">APACHE IV Calculator</string>
+    
+    <string-array name="patient_types">
+        <item>Medical</item>
+        <item>Surgical</item>
+    </string-array>
+    
+    <string-array name="gcs_eyes">
+        <item>1. Never</item>
+        <item>2. To pain</item>
+        <item>3. To speech</item>
+        <item>4. Spontaneously</item>
+    </string-array>
+    
+    <string-array name="gcs_verbal">
+        <item>1. None</item>
+        <item>2. Incomprehensible</item>
+        <item>3. Inappropriate</item>
+        <item>4. Confused</item>
+        <item>5. Oriented</item>
+    </string-array>
+    
+    <string-array name="gcs_motor">
+        <item>1. None</item>
+        <item>2. Extension</item>
+        <item>3. Abnormal flexion</item>
+        <item>4. Withdrawal</item>
+        <item>5. Localizes pain</item>
+        <item>6. Obeys commands</item>
+    </string-array>
+    
+    <string-array name="admission_origins">
+        <item>Other</item>
+        <item>Floor</item>
+        <item>OR/Recovery</item>
+        <item>Other Hospital</item>
+    </string-array>
+    
+   <string name="default_web_client_id">752887174145-mc47g5ife0rnpspcp00fv550c7tqt7st.apps.googleusercontent.com</string>
+</resources>

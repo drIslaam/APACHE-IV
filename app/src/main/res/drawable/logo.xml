@@ -1,0 +1,41 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="100dp"
+    android:height="100dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+    
+    <!-- Bed Frame -->
+    <path
+        android:fillColor="#2C3E50"
+        android:pathData="M15,20h5v50h-5z" />
+    <path
+        android:fillColor="#2C3E50"
+        android:pathData="M15,70h70v5H15z" />
+    
+    <!-- Mattress -->
+    <path
+        android:fillColor="#2980B9"
+        android:pathData="M20,40h65v20H20z" />
+
+    <!-- Patient Head -->
+    <path
+        android:fillColor="#2C3E50"
+        android:pathData="M20,30a5,5 0 1,0 10,0a5,5 0 1,0 -10,0" />
+
+    <!-- Patient Body -->
+    <path
+        android:fillColor="#2C3E50"
+        android:pathData="M30,35h25l15,10h-40z" />
+
+    <!-- Vital Sign Monitor -->
+    <path
+        android:fillColor="#2980B9"
+        android:pathData="M60,20h15v15H60z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeWidth="1"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M62,28l2,-3l3,2l2,-3l4,4" />
+</vector>
